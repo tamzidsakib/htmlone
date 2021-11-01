@@ -1,2 +1,2 @@
 # htmlone
-A simple demonstartion of a webpage with basic html
+https://tamzidsakib.github.io/htmlone/
